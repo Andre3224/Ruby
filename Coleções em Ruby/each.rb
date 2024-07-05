@@ -19,3 +19,5 @@ cursos = {'Curso 1'=>'Ruby', 'Curso 2'=>'Python', 'Curso 3'=>'C#'}
 cursos.each do |key,value|
     puts "#{key} #{value}"
 end
+
+
