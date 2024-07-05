@@ -19,3 +19,5 @@ puts lista.first #imprimir o primeiro valor
 #list.count ou .length -> Conta o numero de elementos
 
 #list.include?("nome") -> verifica se existe o elemento (Retorna True or False)
+
+#lista.delete_at(0) -> Exclui o item da lista
