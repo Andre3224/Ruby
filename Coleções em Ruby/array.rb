@@ -15,3 +15,7 @@ puts "--------------------"
 puts lista[1..2] #acessar um intervalo dentro da lista
 puts "--------------------"
 puts lista.first #imprimir o primeiro valor
+
+#list.count ou .length -> Conta o numero de elementos
+
+#list.include?("nome") -> verifica se existe o elemento (Retorna True or False)
