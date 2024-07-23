@@ -19,3 +19,6 @@ end
 pessoa = Pessoa.new('Matheus', 19)
 
 pessoa.conferencia
+
+pessoa1 = Pessoa.new('Julia', 12)
+pessoa1.conferencia
